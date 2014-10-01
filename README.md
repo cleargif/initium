@@ -9,6 +9,7 @@ This a project bootstrap for frontend developers to save their time they spend a
 
 You will need to install some stuff, if you haven't already:
 
+ssh working?
 
 * Node.js
 * Node: npm
